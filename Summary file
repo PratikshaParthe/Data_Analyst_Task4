@@ -1,0 +1,11 @@
+Total customers: ~100k unique IDs
+
+Coverage: All Brazilian states (focus on São Paulo - SP)
+
+Orders dataset contains order IDs linked to customer IDs.
+
+Most customers are from São Paulo city and Rio de Janeiro.
+
+SP state alone contributes the highest number of orders.
+
+Useful for: Market targeting, delivery optimization, customer segmentation.
